@@ -50,4 +50,6 @@ gem 'spree', :path => '../spree'
 gem 'spree_gateway', :path => '../spree_gateway'
 gem 'activemerchant', :path => '../active_merchant'
 gem 'spree_auth_devise', :git => 'https://github.com/spree/spree_auth_devise.git', :branch => '2-1-stable'
+# gem 'spree_drop_ship', :git => 'https://github.com/jdutil/spree_drop_ship.git'
+gem 'spree_drop_ship', :path => '../spree_drop_ship'
 
